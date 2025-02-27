@@ -1,6 +1,0 @@
-org/example/activemq/AMQConsumerThread.class
-org/example/activemq/SQSConsumer.class
-org/example/activemq/AMQConsumer.class
-org/example/activemq/AMQConsumerStatsThread.class
-org/example/activemq/AMQProducer.class
-org/example/activemq/AMQConsumerStatsThread$QueueStats.class
